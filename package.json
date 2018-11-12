@@ -1,0 +1,16 @@
+{
+  "name": "atv-dashboard",
+  "version": "1.0.0",
+  "description": "Este repositório tem como objetivo testar os conhecimentos sobre Web Designer dos colaboradores.\r A finalidade é a criação de uma tela de dashboard, com os dados requisitados da aplicação NodeJS aqui descrita.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
